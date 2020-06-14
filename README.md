@@ -1,5 +1,6 @@
 #The googleads Python client library
 
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 This client library simplifies accessing Google's SOAP Ads APIs - AdWords,
 and DoubleClick for Publishers. The library provides easy ways to store your
